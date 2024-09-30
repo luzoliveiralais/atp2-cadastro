@@ -1,0 +1,36 @@
+.registration {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f4f4f4; 
+    color: #333; 
+    height: 100%; 
+}
+
+.registration form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px; 
+    align-items: center;
+    text-align: center; 
+}
+
+.registration h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.registration p {
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #666;
+}
+
+.registration a {
+    text-decoration: none;
+}
+

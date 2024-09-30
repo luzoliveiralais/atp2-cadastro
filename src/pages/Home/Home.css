@@ -1,0 +1,21 @@
+.Home {
+  height: 100vh; 
+  display: flex;
+  flex-direction:row;
+}
+
+.Home section {
+  flex: 1; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.Home-section1 {
+  background-color: #ff66cc; 
+}
+
+
+.Home-section2 {
+  background-color: #f4f4f4;
+}

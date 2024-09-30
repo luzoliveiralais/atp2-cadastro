@@ -1,0 +1,16 @@
+.white-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff66cc;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+    transition: background-color 0.3s ease; 
+}
+
+.white-button:hover {
+    background-color: #ff33aa; 
+}
